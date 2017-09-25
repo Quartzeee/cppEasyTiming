@@ -1,0 +1,5 @@
+cppEasyTiming
+
+The cppEasyTiming class is used to return the time elapsed since instantiation using linux sys calls.
+
+Hoping to add in support for using clock ticks and c++11 chrono timing but for now this works.
